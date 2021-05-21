@@ -1,4 +1,4 @@
-module arango-mongo-go
+module github.com/nick2324/arango-mongo-go
 
 go 1.15
 
